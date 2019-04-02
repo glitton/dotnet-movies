@@ -28,3 +28,8 @@
 /Users/glitton/MSFTApps/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.dll
 /Users/glitton/MSFTApps/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.pdb
 /Users/glitton/MSFTApps/RazorPagesMovie/obj/Debug/netcoreapp2.2/RazorPagesMovie.csproj.CopyComplete
+/Users/glitton/MSFTApps/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Create.g.cshtml.cs
+/Users/glitton/MSFTApps/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Delete.g.cshtml.cs
+/Users/glitton/MSFTApps/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Details.g.cshtml.cs
+/Users/glitton/MSFTApps/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Edit.g.cshtml.cs
+/Users/glitton/MSFTApps/RazorPagesMovie/obj/Debug/netcoreapp2.2/Razor/Pages/Movies/Index.g.cshtml.cs
