@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{7CCD53C8-0D8D-4200-8947-14342169D764}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Movies/Delete.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.cshtml">
     <Files>
       <File FileName="Pages/Shared/_Layout.cshtml" Line="24" Column="70" />
       <File FileName="Startup.cs" Line="41" Column="10" />
@@ -11,9 +11,10 @@
       <File FileName="Pages/Movies/Edit.cshtml.cs" Line="1" Column="1" />
       <File FileName="Pages/Movies/Index.cshtml" Line="1" Column="1" />
       <File FileName="Pages/Movies/Index.cshtml.cs" Line="1" Column="1" />
-      <File FileName="Pages/Movies/Details.cshtml" Line="1" Column="17" />
+      <File FileName="Pages/Movies/Details.cshtml" Line="1" Column="16" />
       <File FileName="Pages/Movies/Delete.cshtml.cs" Line="1" Column="1" />
       <File FileName="Pages/Movies/Delete.cshtml" Line="1" Column="17" />
+      <File FileName="Pages/Index.cshtml" Line="9" Column="113" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,10 +23,9 @@
             <Node name="RazorPagesMovie" expanded="True">
               <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="Movies" expanded="True">
-                  <Node name="Delete.cshtml" selected="True" />
-                </Node>
+                <Node name="Movies" expanded="True" />
                 <Node name="Shared" expanded="True" />
+                <Node name="Index.cshtml" selected="True" />
               </Node>
               <Node name="wwwroot" expanded="True" />
             </Node>
